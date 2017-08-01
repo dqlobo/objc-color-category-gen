@@ -1,5 +1,5 @@
 # objc-color-category-gen
-Python script that generates a category class of UIColor in Objective C. Works great with XML exported files from [Paletton](http://paletton.com/). See Format for details.
+Python script that generates a category class of UIColor in Objective C. Works great with exported XML files from [Paletton](http://paletton.com/). See Format for details.
 
 # Background
 I love creating my app color schemes on [Paletton](http://paletton.com/), but hate wasting time writing stupid color categories. Paletton has an export to XML button, so I wrote a python script so I NEVER HAVE TO WRITE A COLOR CATEGORY AGAIN!
