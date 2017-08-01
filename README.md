@@ -8,10 +8,10 @@ I love creating my app color schemes on [Paletton](http://paletton.com/), but ha
 ```
 > python3 color_from_xml.py -i<inputfile> -s<SKU>
 ```
-
--*Requires Python 3*
--*outputs to current directory*
--SKU is whatever your iOS app SKU is (See [here](http://lmgtfy.com/?q=what+is+app+sku) for details)
+Notes:
+* Requires Python 3
+* outputs to current directory
+* SKU is whatever your iOS app SKU is (See [here](http://lmgtfy.com/?q=what+is+app+sku) for details)
 
 # Format
 This script just traverses and XML file and extracts properties that correspond to color name and rgb (as floats). The format is as follows:
