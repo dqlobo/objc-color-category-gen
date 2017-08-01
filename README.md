@@ -6,7 +6,9 @@ I love creating my app color schemes on [Paletton](http://paletton.com/), but ha
 
 # Usage
 *Requires Python 3*
+*outputs to current directory*
 SKU is whatever your iOS app SKU is (See [here](http://lmgtfy.com/?q=what+is+app+sku) for details)
+
 ```
 > python3 color_from_xml.py -i<inputfile> -s<SKU>
 ```
